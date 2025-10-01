@@ -24,3 +24,4 @@ Static view of the dashboard:
 
 
 Demonstration of interactivity (GIF):
+![Project-data](https://github.com/user-attachments/assets/ab5702de-01a3-4bea-b588-10d7114d0d9e)
