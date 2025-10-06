@@ -20,8 +20,8 @@ This project is an interactive dashboard created in Google Sheets for sales data
 ## Demonstration
 
 Static view of the dashboard:
-<img width="1577" height="651" alt="image" src="https://github.com/user-attachments/assets/8dc76f5f-5271-4649-a26a-a19b87dac2c2" />
-
+<img width="1544" height="647" alt="image" src="https://github.com/user-attachments/assets/8955c2ab-1c22-4d09-8d4f-f02254439b3b" />
 
 Demonstration of interactivity (GIF):
-![Project-data](https://github.com/user-attachments/assets/ab5702de-01a3-4bea-b588-10d7114d0d9e)
+![Видео без названия — сделано в Clipchamp (1)](https://github.com/user-attachments/assets/ffcbabb0-8368-49f6-880c-f74607d13dc3)
+
